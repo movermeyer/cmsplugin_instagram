@@ -1,4 +1,7 @@
-from distutils.core import setup
+try:
+    from setuptools import setup
+except ImportError:
+    from distutils.core import setup
 
 import cmsplugin_instagram
 
@@ -7,7 +10,7 @@ version = cmsplugin_instagram.__version__
 setup(
     name = 'cmsplugin_instagram',
     packages = ['cmsplugin_instagram'],
-    include_package_data=True,
+    include_package_data = True,
     version = version,
     description = 'A djangocms plugin displaying images of an instagram account',
     author = 'Christoph Reimers',
