@@ -1,6 +1,0 @@
-include LICENSE.txt
-include README.md
-recursive-include cmsplugin_instagram/locale *
-recursive-include cmsplugin_instagram/templates *
-recursive-include cmsplugin_instagram/static *
-recursive-exclude * *.pyc
