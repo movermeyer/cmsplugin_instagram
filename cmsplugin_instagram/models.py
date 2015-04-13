@@ -1,8 +1,10 @@
 from django.db import models
 from cms.models import CMSPlugin
 from django.utils.translation import ugettext_lazy as _
+from django.utils.encoding import python_2_unicode_compatible
 
 
+@python_2_unicode_compatible
 class InstagramPluginModel(CMSPlugin):
 
     title = models.CharField(_('title'), max_length=100, blank=True, null=True)
