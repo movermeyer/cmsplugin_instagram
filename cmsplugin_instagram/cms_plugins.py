@@ -9,7 +9,7 @@ import requests
 class InstagramPlugin(CMSPluginBase):
     model = InstagramPluginModel
     name = 'Instagram Plugin'
-    render_template = "instagram/_instagram_plugin.html"
+    render_template = "cmsplugin_instagram/_instagram_plugin.html"
 
     def getImages(self, client_id, user_id, pictures):
         url = "https://api.instagram.com/v1/users/%(user_id)s/media/recent/?client_id=%(client_id)s&count=%(pictures)s" % {
