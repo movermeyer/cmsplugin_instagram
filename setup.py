@@ -7,6 +7,7 @@ version = cmsplugin_instagram.__version__
 setup(
     name = 'cmsplugin_instagram',
     packages = ['cmsplugin_instagram'],
+    include_package_data=True,
     version = version,
     description = 'A djangocms plugin displaying images of an instagram account',
     author = 'Christoph Reimers',
@@ -22,5 +23,4 @@ setup(
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3.4',
     ],
-    include_package_data=True,
 )
