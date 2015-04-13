@@ -13,7 +13,6 @@ setup(
     author_email = 'christoph@superservice-international.com',
     license='BSD License',
     url = 'https://github.com/creimers/cmsplugin_instagram',
-    download_url = 'https://github.com/creimers/cmsplugin_instagram/tarball/0.0.1',
     keywords = ['djangocms', 'django', 'instagram',], 
     install_requires = ['django-cms>=3.0',],
     classifiers = [
