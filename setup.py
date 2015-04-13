@@ -20,6 +20,7 @@ setup(
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Framework :: Django',
+        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3.4',
     ],
     include_package_data=True,
