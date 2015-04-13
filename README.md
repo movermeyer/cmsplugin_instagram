@@ -1,3 +1,5 @@
+[![Latest Version](https://pypip.in/version/cmsplugin-instagram/badge.svg)](https://pypi.python.org/pypi/cmsplugin-instagram/)
+[![Supported Python versions](https://pypip.in/py_versions/cmsplugin-instagram/badge.svg)](https://pypi.python.org/pypi/cmsplugin-instagram/)
 # djangocms instagram plugin
 
 This plugin displays pictures from an instagram account on a djangocms site.
