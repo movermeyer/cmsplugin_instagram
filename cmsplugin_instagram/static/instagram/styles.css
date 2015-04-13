@@ -1,0 +1,22 @@
+.image-list{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.image-list li{
+  display:  inline-block;
+}
+
+.instagram-image{
+  border: 4px solid transparent;
+  -webkit-transition: all 500ms;
+  -moz-transition: all 500ms;
+  -o-transition: all 500ms;
+  transition: all 500ms;
+}
+
+.instagram-image:hover{
+  border: 4px solid #95C11F;
+  opacity: 0.9;
+}
