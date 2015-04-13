@@ -18,6 +18,7 @@ setup(
     install_requires = ['django-cms>=3.0',],
     classifiers = [
         'Operating System :: OS Independent',
+        'Development Status :: 4 - Beta',
         'Programming Language :: Python',
         'Framework :: Django',
         'Programming Language :: Python :: 2.7',
