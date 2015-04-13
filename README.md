@@ -12,6 +12,6 @@ This plugin displays pictures from an instagram account on a djangocms site.
 
 if you're using Django >= 1.7:
 
-* add ``cmsplugin_instagram': 'cmsplugin_instagram.migrations_django`` to ``MIGRATION_MODULES`` in ``settings.py``
+* add ``'cmsplugin_instagram': 'cmsplugin_instagram.migrations_django'`` to ``MIGRATION_MODULES`` in ``settings.py``
 
 * migrate the database
