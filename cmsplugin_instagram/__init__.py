@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 __author__ = 'Chirstoph Reimers'
 __email__ = 'christoph@superservice-international.com'
-__version__ = '0.0.11'
+__version__ = '0.0.12'
