@@ -1,6 +1,6 @@
-[![Latest Version](https://pypip.in/version/cmsplugin_instagram/badge.svg)](https://pypi.python.org/pypi/cmsplugin-instagram/)
-[![Supported Python versions](https://pypip.in/py_versions/cmsplugin_instagram/badge.svg)](https://pypi.python.org/pypi/cmsplugin-instagram/)
-[![Development Status](https://pypip.in/status/cmsplugin_instagram/badge.svg)](https://pypi.python.org/pypi/cmsplugin_instagram/)
+[![Latest Version](https://img.shields.io/pypi/v/cmsplugin_instagram.svg)](https://pypi.python.org/pypi/cmsplugin-instagram/)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/cmsplugin_instagram.svg)](https://pypi.python.org/pypi/cmsplugin-instagram/)
+[![Development Status](https://img.shields.io/pypi/status/cmsplugin_instagram.svg)](https://pypi.python.org/pypi/cmsplugin_instagram/)
 [![Code Climate](https://codeclimate.com/github/creimers/cmsplugin_instagram/badges/gpa.svg)](https://codeclimate.com/github/creimers/cmsplugin_instagram)
 # djangocms instagram plugin
 
